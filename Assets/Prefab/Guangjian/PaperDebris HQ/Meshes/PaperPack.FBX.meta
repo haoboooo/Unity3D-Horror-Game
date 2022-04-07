@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: bf1fca8e733a0414abdb60d5be2863f3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: NewspaperDouble
+    100002: NewspaperSingle
+    100004: Paper01
+    100006: Paper02
+    100008: Paper03
+    100010: Paper04
+    100012: Paper05
+    100014: Paper06
+    100016: Paper07
+    100018: Paper08
+    100020: Paper09
+    100022: Paper10
+    100024: Paper11
+    100026: Paper12
+    100028: Paper13
+    100030: Paper14
+    100032: //RootNode
+    100034: PaperRolled01
+    100036: PaperRolled02
+    100038: PaperRolled03
+    100040: PaperRolled04
+    400000: NewspaperDouble
+    400002: NewspaperSingle
+    400004: Paper01
+    400006: Paper02
+    400008: Paper03
+    400010: Paper04
+    400012: Paper05
+    400014: Paper06
+    400016: Paper07
+    400018: Paper08
+    400020: Paper09
+    400022: Paper10
+    400024: Paper11
+    400026: Paper12
+    400028: Paper13
+    400030: Paper14
+    400032: //RootNode
+    400034: PaperRolled01
+    400036: PaperRolled02
+    400038: PaperRolled03
+    400040: PaperRolled04
+    2100000: PaperDebris
+    2100002: PaperDebrisRoll
+    2100004: NewspaperSingle
+    2100006: NewspaperDouble
+    2300000: NewspaperDouble
+    2300002: NewspaperSingle
+    2300004: Paper01
+    2300006: Paper02
+    2300008: Paper03
+    2300010: Paper04
+    2300012: Paper05
+    2300014: Paper06
+    2300016: Paper07
+    2300018: Paper08
+    2300020: Paper09
+    2300022: Paper10
+    2300024: Paper11
+    2300026: Paper12
+    2300028: Paper13
+    2300030: Paper14
+    2300032: PaperRolled01
+    2300034: PaperRolled02
+    2300036: PaperRolled03
+    2300038: PaperRolled04
+    3300000: NewspaperDouble
+    3300002: NewspaperSingle
+    3300004: Paper01
+    3300006: Paper02
+    3300008: Paper03
+    3300010: Paper04
+    3300012: Paper05
+    3300014: Paper06
+    3300016: Paper07
+    3300018: Paper08
+    3300020: Paper09
+    3300022: Paper10
+    3300024: Paper11
+    3300026: Paper12
+    3300028: Paper13
+    3300030: Paper14
+    3300032: PaperRolled01
+    3300034: PaperRolled02
+    3300036: PaperRolled03
+    3300038: PaperRolled04
+    4300000: Paper01
+    4300002: Paper02
+    4300004: Paper03
+    4300006: Paper04
+    4300008: Paper05
+    4300010: Paper06
+    4300012: Paper07
+    4300014: Paper08
+    4300016: Paper09
+    4300018: Paper10
+    4300020: Paper11
+    4300022: Paper12
+    4300024: Paper13
+    4300026: PaperRolled02
+    4300028: PaperRolled03
+    4300030: PaperRolled04
+    4300032: Paper14
+    4300034: NewspaperSingle
+    4300036: NewspaperDouble
+    4300038: PaperRolled01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 21
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

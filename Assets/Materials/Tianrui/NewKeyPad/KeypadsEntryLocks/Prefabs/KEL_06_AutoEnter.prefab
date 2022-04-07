@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5214474695804328116
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1540686570, guid: f564fd0bddf248444878e29a311bc853, type: 3}
+      propertyPath: _autoEnter
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1567312083, guid: f564fd0bddf248444878e29a311bc853, type: 3}
+      propertyPath: _fontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1694010565755877970, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: _fontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4011071425474979806, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: _fontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357612610, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_Name
+      value: KEL_06_AutoEnter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357613038, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357613042, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357613046, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357613050, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4831759857357781602, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5195770428049475008, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: _fontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5622910715997483115, guid: f564fd0bddf248444878e29a311bc853,
+        type: 3}
+      propertyPath: _fontStyle
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f564fd0bddf248444878e29a311bc853, type: 3}
